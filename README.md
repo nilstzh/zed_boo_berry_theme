@@ -8,4 +8,4 @@ Based on Helix's [boo_berry](https://github.com/helix-editor/helix/blob/master/r
 
 ### Screenshot
 
-![Zed editor with BooBerry theme][screenshot.png]
+![Zed editor with BooBerry theme](screenshot.png)
